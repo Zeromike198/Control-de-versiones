@@ -23,3 +23,7 @@ Esta sección fue desarrollada por Nicole Rangel.
 Diseño limpio y claridad en los documentos.
 Usar títulos, listas y subtítulos.
 Esta sección fue desarrollada por Nicole Rangel.
+
+## Herramientas colaborativas
+Usar Google Docs, Trello y otras plataformas de colaboración.
+Esta sección fue desarrollada por Nicole Rangel.
