@@ -18,3 +18,8 @@ Esta sección fue desarrollada por Richard Quintero.
 Citar todas las fuentes correctamente.
 Usar referencias al final del documento.
 Esta sección fue desarrollada por Nicole Rangel.
+
+## Presentación
+Diseño limpio y claridad en los documentos.
+Usar títulos, listas y subtítulos.
+Esta sección fue desarrollada por Nicole Rangel.
